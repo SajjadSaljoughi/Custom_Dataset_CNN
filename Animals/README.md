@@ -198,4 +198,4 @@ Also consider:
 
 **Current conclusion:** the notebook demonstrates the complete custom-CNN workflow and correctly predicts the two shown example images, but its recorded evaluation outputs disagree. Re-evaluation is needed before presenting a single definitive model accuracy.
 
-CREATE by Sajjad Saljoughi
+CREATE by Sajjad Saljoughi ❤
